@@ -5,7 +5,7 @@
 - [Spring Framework Reference Documentation(4.3.x)](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)
 - [Spring Framework Reference Documentation(current)](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 ## Spring boot
-- [Spring boot](https://github.com/spring-projects/spring-framework/wiki/What's-New-in-Spring-Framework-5.x)
+- [Spring boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 # WIKI
 - [Spring Annotation Programming Model](https://github.com/spring-projects/spring-framework/wiki/Spring-Annotation-Programming-Model)
