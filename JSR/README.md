@@ -1,5 +1,4 @@
-# docs
-.
+# [Java Specification Requests](https://www.jcp.org/en/home/index)
 ├── Activation
 │   └── JavaBeans™ Activation Framework Specification Version 1.1.pdf
 ├── Annotation
