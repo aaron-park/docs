@@ -1,5 +1,5 @@
 # docs
-.
+```
 ├── Activation
 │   └── JavaBeans™ Activation Framework Specification Version 1.1.pdf
 ├── Annotation
@@ -163,4 +163,4 @@
 └── XQJ
     └── XQJ_spec_v1.0_PFD_20071029.pdf
 
-51 directories, 111 files
+```
