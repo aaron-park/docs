@@ -1,6 +1,8 @@
 # docs
 ## CSS
 - [Selectors](https://www.w3.org/TR/selectors-3/#selectors)
+- [Position](https://www.w3.org/TR/CSS21/visuren.html#propdef-position)
+- [Flexible Box](https://www.w3.org/TR/css-flexbox-1/#abspos-items)
 ## Rest API Design
 - [JSON:API](https://jsonapi.org/format/)
 - [NationalBankBelgium REST API Design Guide](https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki/REST-Resources-Naming)
